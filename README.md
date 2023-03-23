@@ -9,6 +9,7 @@ On to some analysis! The hiscore snapshot contains the top 2,475 players in each
 ![download](https://user-images.githubusercontent.com/47310990/227351250-5461429d-5f24-46dc-ae44-7283c84a87fc.png)
 
 The most common ranked skill for players that only had 1 skill ranked was Thieving, with 979 players. The next highest was Runecrafting with 796 players. Only 12 people had Invention as their only top 2,475 ranked skill and 25 had Herblore. I’m not surprised by the position of Thieving, Invention, and Herblore since Thieving was easy to train on its own with safes and Invention and Herblore would be more commonly trained by players who had other high scores. I was surprise that Runecrafting was second. My assumption is that Runecrafting was mainly trained by people who were building their account overall and weren’t specifically training Runecrafting. Runecrafting also had the lowest exp need to be in the top 2,475 at 582,151, almost half of the second lowest Archaeology which required 899,447. 
+
 ![download](https://user-images.githubusercontent.com/47310990/227351736-39119772-794d-43aa-bc9b-8a72de5ec92c.png)
 ![download](https://user-images.githubusercontent.com/47310990/227351772-88006a19-af41-40af-92b5-e03fcd3e0b84.png)
 
