@@ -2,9 +2,10 @@
 Analysis of the Runescape 3 Fresh Start Worlds hiscores at the end of the competitive period and ~2 months after the end of the acomplishment period.
 
 Files for the analysis of the competitive period are in /CompetitiveAnalysis/
+
 Files for the analysis of players after they left FSW are in /PostFSWAnalysis/
 
-
+Below are some of the interesting plots. More info and analysis is included in the project folders.
 
 ![download](https://user-images.githubusercontent.com/47310990/227351736-39119772-794d-43aa-bc9b-8a72de5ec92c.png)
 ![download](https://user-images.githubusercontent.com/47310990/227351772-88006a19-af41-40af-92b5-e03fcd3e0b84.png)
