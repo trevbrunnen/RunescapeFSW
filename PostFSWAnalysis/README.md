@@ -8,7 +8,7 @@ This means that, by the threshold I set for success, Fresh Start Worlds was succ
 
 (Note: I have no idea what Jagex’s internal metric for success was or if my metric is a reasonable one. I wanted to have some metric to test against and set 5% as the threshold before doing any analysis. I think that you could easily argue a different metric or a different threshold.)
 
-Analysis
+## Analysis
 
 I scraped the FSW Overall Hiscores to get a list of who played FSW and their total experience at the end of FSW. I then scraped the main game hiscores to get the current experience of players a couple of months after the conclusion of FSW. For the FSW Hiscores, I only collected username, overall rank, total level, and total experience. For the main game hiscores I collected the level and experience of all skills and the total. Most of the data was collected during the last week of March, with the 150 lowest ranks being collected on April 13th. 
 
